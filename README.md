@@ -84,9 +84,11 @@ Files included in `hardware/`:
 ## 🖼 Photos & Schematics
 
 **Fritzing scheme**
+
 <img width="1198" height="1508" alt="scheme" src="https://github.com/user-attachments/assets/51496d8e-135a-4ec0-b7fa-33df1863a5f1" />
 
 **Broadboard scheme**
+
 ![PXL_20251105_155302146](https://github.com/user-attachments/assets/5f9669c7-ab29-482b-8f4e-034565097455)
 
 
